@@ -2,11 +2,11 @@
 
 ## Ingredients:
 - 2 cups all-purpose flour
-- 1 3/4 cups granulated sugar
+- 1 3/4 cups granulated brown sugar
 - 3/4 cup unsweetened cocoa powder
-- 1 cup chocolate chips
-- 1 tsp vanilla extract
-- 1/2 tsp ground cinnamon
+- 2 cup chocolate chips
+- 3 tsp vanilla extract
+- 1 tsp ground cinnamon
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
@@ -17,3 +17,6 @@
 6. Mix in a handful of chocolate chunks for extra indulgence.
 6. Line the bottom of the baking pan with parchment paper for easy cake removal.
 7. Pour the batter into a greased and floured 9x13-inch baking pan.
+8. Put the pan in the oven for 1 hour at 250 Fahr.
+9. After this, put the cake in the fridge and let it rest for 30 minutes
+10. Enjoy
